@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Leutner;Adrian;Jean-Ludwig;;
+FN:Adrian Jean-Ludwig Leutner
+ORG:Spayz AG
+TITLE:Co-Founder
+TEL;TYPE=CELL:+41 76 219 68 30
+EMAIL;TYPE=WORK:adrian@spayz.space
+URL;TYPE=LinkedIn:LINKEDIN_URL
+END:VCARD
